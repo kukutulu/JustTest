@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginTest1</string>
+    <string name="email_hint">Enter email...</string>
+    <string name="password_hint">Enter password...</string>
+    <string name="signup_btn">Sign up</string>
+    <string name="login_btn">Login</string>
+    <string name="back">Back</string>
+    <string name="get_password_link">Get Password</string>
+    <string name="new_password">New password</string>
+    <string name="update_pass">Update password</string>
+    <string name="logout">Logout</string>
+</resources>
